@@ -1,0 +1,7 @@
+/* src/app/globals.css */
+@import "tailwindcss";
+
+/* Aquí puedes poner estilos globales personalizados */
+body {
+  font-family: sans-serif;
+}
